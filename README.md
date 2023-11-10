@@ -5,7 +5,7 @@ This is a simple implementation of a dynamic calculator using HTML, CSS, and Jav
 
 Features:
 
-Live calculation
-on and off buttons
-Undo and erase functionality
-Simple and easy to use interface
+1)Live calculation
+ 2)on and off buttons
+ 3)Undo and erase functionality
+ 4)Simple and easy to use interface
